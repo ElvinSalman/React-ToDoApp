@@ -1,0 +1,22 @@
+div{
+    padding: 0;
+}
+h1{
+    width: 100%;
+    display: flex;
+}
+input{
+    margin: 4px 8px;
+}
+span{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.i{
+   text-align: right;
+   padding: 0;
+}
+
+.t{
+    text-align: left;
+}
